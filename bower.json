@@ -6,5 +6,17 @@
   ],
   "description": "Verifies users browser version and redirects them to a compatibility page if their browser version is not supported",
   "main": "browser.js",
-  "license": "MIT"
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  },
+  "moduleType": "globals",
+  "keywords": "",
+  "license": "MIT",
+  "ignore": [
+
+  ],
+  "private": false
 }
